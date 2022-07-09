@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Akka_transactions_backend,ScalaAkkaHttp_StartingPoint,api,performance,sandbox_akka_template" />
+  </component>
+</project>

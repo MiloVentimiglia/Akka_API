@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/miloventimiglia/IdeaProjects/Akka_API/api/src/main/scala/route/Routes.scala:6:14: imported `SwaggerDocService' is permanently hidden by definition of object SwaggerDocService in package route[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport route.SwaggerDocService[0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

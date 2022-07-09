@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="sbt: io.github.classgraph:classgraph:4.8.138:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/classgraph/classgraph/4.8.138/classgraph-4.8.138.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/classgraph/classgraph/4.8.138/classgraph-4.8.138.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/classgraph/classgraph/4.8.138/classgraph-4.8.138-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/classgraph/classgraph/4.8.138/classgraph-4.8.138-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/classgraph/classgraph/4.8.138/classgraph-4.8.138-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/classgraph/classgraph/4.8.138/classgraph-4.8.138-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

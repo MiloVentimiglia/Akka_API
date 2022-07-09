@@ -1,0 +1,16 @@
+openapi: 3.0.0
+info:
+  version: "1"
+  title: MyService
+  contact:
+    name: "#Milo Ventimiglia"
+paths:
+  /v1/health:
+    get:
+      summary: Health check point
+      description: >
+        Return an 200 response code when the API is running.
+
+      responses:
+        '200':
+          description: Successful connection to the API.

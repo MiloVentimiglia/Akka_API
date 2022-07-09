@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/miloventimiglia/sandbox_akka_template/"), "performance")...
+[debug] Done updating ProjectRef(uri("file:/home/miloventimiglia/sandbox_akka_template/"), "performance")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
